@@ -1,0 +1,2 @@
+# CQWordle
+Wordle in Qt
