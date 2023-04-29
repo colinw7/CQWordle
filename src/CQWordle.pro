@@ -2,7 +2,7 @@ TEMPLATE = app
 
 QT += widgets
 
-TARGET = CQNurikabe
+TARGET = CQWordle
 
 DEPENDPATH += .
 
@@ -24,7 +24,6 @@ OBJECTS_DIR = ../obj
 LIB_DIR     = ../lib
 
 INCLUDEPATH += \
-../include \
 ../../CConfig/include \
 .
 
